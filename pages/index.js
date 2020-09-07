@@ -60,7 +60,7 @@ export default function read() {
       </div>
       <footer>
         Todos os direitos das imagens são da Netflix. Dados Extraidos de
-        www.themoviedb.org
+        www.themoviedb.org - Tutorial de Bonieky Lacerda youtube
       </footer>
       {movieList.length <= 0 && (
         <div className="loading">
